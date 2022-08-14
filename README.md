@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[How to make GitHub profile](https://www.youtube.com/watch?v=l6dOkZx0rlE)
-[VSCode Git Tutorial For Beginners (Commit, Push, Resolve Merge Conflict, Reset HEAD)](https://www.youtube.com/watch?v=WAqWUfGIQYI)
-[How To Clone Git Repository](https://www.youtube.com/watch?v=OFhO1s9WAk4)
-[Hot To Git Commit And Push Changes](https://www.youtube.com/watch?v=9DHjfDuXMGA)
-[Git: How To Undo Last Commit Before Push (git reset soft git reset hard](https://www.youtube.com/watch?v=Ak_FBkBQ1Ng)
+- [How to make GitHub profile](https://www.youtube.com/watch?v=l6dOkZx0rlE)
+- [VSCode Git Tutorial For Beginners (Commit, Push, Resolve Merge Conflict, Reset HEAD)](https://www.youtube.com/watch?v=WAqWUfGIQYI)
+- [How To Clone Git Repository](https://www.youtube.com/watch?v=OFhO1s9WAk4)
+- [Hot To Git Commit And Push Changes](https://www.youtube.com/watch?v=9DHjfDuXMGA)
+- [Git: How To Undo Last Commit Before Push (git reset soft git reset hard](https://www.youtube.com/watch?v=Ak_FBkBQ1Ng)
 
 <!--
 **javascriptual/javascriptual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
