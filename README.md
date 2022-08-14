@@ -1,4 +1,4 @@
-### Hi there 👋
+### Git Tutorials
 
 - [How to make GitHub profile](https://www.youtube.com/watch?v=l6dOkZx0rlE)
 - [VSCode Git Tutorial For Beginners (Commit, Push, Resolve Merge Conflict, Reset HEAD)](https://www.youtube.com/watch?v=WAqWUfGIQYI)
